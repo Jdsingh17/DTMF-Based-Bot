@@ -1,1 +1,2 @@
 # DTMF-Based-Bot
+ DTMF( Dual Tone Multiple Frequency ) controlled Robot runs over mobile DTMF technology that exists in Dial tone. There are some frequencies that we use to create DTMF tone. In simple words by adding or mixing two or more frequencies generates DTMF tone. We have an MT8870 DTMF decoder IC which decodes the frequency into its equivalent binary which is the input for the arduino and accordingly we set the directions of the motors.
